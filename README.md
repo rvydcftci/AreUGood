@@ -1,1 +1,1 @@
-# AreUGood (İyi Misin) Mobile App
+# AreUGood
