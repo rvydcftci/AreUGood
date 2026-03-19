@@ -1,1 +1,1 @@
-# AreUGood
+# AreUGood Mobile App
